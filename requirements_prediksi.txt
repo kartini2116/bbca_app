@@ -1,10 +1,6 @@
 streamlit
-pandas
+tensorflow==2.13.0
 numpy
-plotly
+pandas
 scikit-learn
-tensorflow
-yfinance
-joblib
-matplotlib
-ta
+plotly
