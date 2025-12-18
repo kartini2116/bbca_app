@@ -8,4 +8,3 @@ yfinance
 joblib
 matplotlib
 ta
-python-3.10
